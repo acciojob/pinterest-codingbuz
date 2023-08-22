@@ -5,7 +5,7 @@ img{
 	object-fit:cover;
 	
 }
-.hero-section{
+.hero{
 	display:flex;
 	justify-content:space-between;
 	align-item:center;
